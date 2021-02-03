@@ -57,5 +57,17 @@
      and password are the same as your cornell netid. You will now have a new
      folder (directory) called 'btry6020_2021' inside of 'my6020directory' 
      containing some course files. You can even see this directory in your finder.
-   
-   
+
+* Notes
+
+  -  You should not alter any files in 'btry6020_2021'. If you want to alter them,
+     copy the file to a different folder and alter the copied file.
+
+  - To sync your local files with github, open a terminal,
+    navigate to 'btry6020_2021', and enter
+
+    $ git pull
+
+    If you do that now, it should say "Everything up to date" or something similar.
+    If you do that a week from now, you will get new files.
+
