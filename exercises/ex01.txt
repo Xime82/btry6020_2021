@@ -1,0 +1,61 @@
+
+* Exercise 1: install R
+
+  Follow the instructions under "Getting Started" on this page:
+
+  https://www.r-project.org/
+
+
+* Exercise 2: install RStudio (optional, but recommended)
+
+  https://rstudio.com/products/rstudio/download/#download
+
+
+* Exercise 3: install git
+
+  Windows: https://gitforwindows.org/
+
+  Mac or Linux: first check to see whether git is already installed by 
+  opening a terminal and entering 
+
+  git --version
+
+  Then hit enter. It will print a version number if it's already installed.
+  If not, download and install the appropriate version from here:
+  
+  https://git-scm.com/downloads
+
+
+* Exercise 4: clone our course repository
+
+  1. Open git bash (windows) or a terminal (mac or linux). 
+  
+  2. You should be in your home directory. Create a new directory
+     inside your home directory by entering
+   
+     $ mkdir my6020directory
+   
+     You can store all your files for this course in here. If you are comfortable
+     navigating your directories, feel free to put this directory
+     wherever you want.
+
+     By the way, don't type "$ ". Just type "mkdir my6020directory" and hit enter.
+     "$ " is simply my notation to indicate
+     that you are entering the following command in the terminal.
+     
+  3. Navigate to your new directory by entering
+     
+     $ cd my6020directory
+     
+     Your terminal prompt should change, indicating that you have changed directories.
+     
+  4. Clone the course repository by entering
+     
+     git clone https://github.coecis.cornell.edu/jsg342/btry6020_2021.git
+     
+     It may ask you to enter a username, e-mail, or password. Your username
+     and password are the same as your cornell netid. You will now have a new
+     folder (directory) called 'btry6020_2021' inside of 'my6020directory' 
+     containing some course files. You can even see this directory in your finder.
+   
+   
