@@ -4,8 +4,9 @@ Github repository for BTRY 6020: Statistical Methods II
 
 ## Module 1
 
-Lecture Video : https://youtu.be/bPvtv780h3k (lecture_notes/mathematical_notation.pdf)
-                https://youtu.be/w4_KxHeAhcM (lecture_notes/statistical_analysis.pdf)
+**Lecture Video** :  
+https://youtu.be/bPvtv780h3k (lecture_notes/mathematical_notation.pdf)  
+https://youtu.be/w4_KxHeAhcM (lecture_notes/statistical_analysis.pdf)  
 
 Lecture Code : none
 
