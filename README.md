@@ -14,7 +14,7 @@ https://youtu.be/w4_KxHeAhcM (lecture_notes/statistical_analysis.pdf)
 
 **Exercises:** exercises/install_stuff.txt
 
-**Lab Video:** https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28a488c9-fd30-4d4c-9ab2-acc80189a6ea
+**Lab Video:** [Panopto](https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28a488c9-fd30-4d4c-9ab2-acc80189a6ea)
 
 **Lab Code:** labs/Rintro.R
 
