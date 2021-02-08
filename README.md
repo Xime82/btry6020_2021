@@ -12,11 +12,11 @@ https://youtu.be/w4_KxHeAhcM (lecture_notes/statistical_analysis.pdf)
 
 **Reading:** Chapters 1 and 2 of reading.pdf
 
-**Exercises:**  exercises/install_stuff.txt
+**Exercises:** exercises/install_stuff.txt
 
-**Lab Video:**  
+**Lab Video:** https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28a488c9-fd30-4d4c-9ab2-acc80189a6ea
 
-**Lab Code:** 
+**Lab Code:** labs/Rintro.R
 
 **Quiz:** Feb 15 on Canvas
 
