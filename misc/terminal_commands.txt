@@ -1,0 +1,55 @@
+
+pwd - "print working directory"
+
+
+
+ls - "list files"
+
+  ls         <- simple list
+  ls -l      <- "long" list with additional information
+  ls -a      <- show hidden files
+  ls -la     <- long list with hidden files
+  
+
+
+cd - "change directory"
+
+  cd         <-- change to home directory
+  cd ..      <-- go "up" one directory
+  cd mydirectory   <- change to subdirectory called "midirectory"
+
+  Notes: can change directories "locally", as in the commands above,
+         or you can type a full path, such as
+		 cd /home/guinness/mydirectory
+
+
+
+head - print top few lines of a text file
+
+  head -n 20 myfile.txt  <-- print first 20 lines of myfile.txt
+
+
+
+cat - print entire text file
+
+  cat myfile.txt
+  
+
+
+less - open program to nicely print out file, one page at a time
+
+  less myfile.txt   <-- opens less program on myfile.txt
+  Down              <-- scroll down
+  Up                <-- scroll up
+  Ctrl + d          <-- scroll down half page
+  Ctrl + u          <-- scroll up half page
+  gg                <-- go to top of file
+  G                 <-- go to bottom of file
+  q                 <-- exit less 
+
+
+
+
+  
+
+
